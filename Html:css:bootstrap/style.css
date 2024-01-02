@@ -1,0 +1,13 @@
+@media (min-width: 760px) {
+  .news-input {
+    width: 50%;
+  }
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+@media (max-width: 760px) {
+  iframe {
+    height: 300px; /* Adjust the height for smaller screens */
+  }
+}
